@@ -1,0 +1,38 @@
+html {
+  font-family: "Montserrat", sans-serif;
+  color: #052c35;
+  background-color: #e8dfd6;
+}
+
+h1 {
+  font-family: "Cherry Swash", cursive;
+  color: #fc2e2a;
+}
+
+a {
+  color: #fc2e2a;
+}
+
+.nav a {
+  color: #052c35;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  color: #fc2e2a;
+}
+
+.card {
+  color: #e8dfd6;
+  background-color: #052c35;
+  max-width: 35em;
+  padding: 1em;
+  border: 5px solid #0f5f72;
+  border-radius: 15px;
+}
+
+.img-flex {
+  width: 50%;
+  max-width: 400px;
+  min-width: 300px;
+}
